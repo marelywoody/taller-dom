@@ -1,0 +1,44 @@
+{
+  "students":[
+      {
+          "name": "Daniela Gutierrez",
+          "active": true,
+          "progress": {
+              "javascript": 80,
+              "ux": 60
+          }
+      },
+      {
+        "name": "Sandra Salinas",
+        "active": true,
+        "progress": {
+            "javascript": 80,
+            "ux": 30
+        }
+    },
+    {
+        "name": "Francisca Fuentes",
+        "active": true,
+        "progress": {
+            "javascript": 40,
+            "ux": 90
+        }
+    },
+    {
+        "name": "Natalia Vera",
+        "active": true,
+        "progress": {
+            "javascript": 75,
+            "ux": 50
+        }
+    },
+    {
+        "name": "Mónica Hormazabal",
+        "active": true,
+        "progress": {
+            "javascript": 42,
+            "ux": 77
+        }
+    }
+  ]
+}
