@@ -14,8 +14,8 @@ renderInfo = (data) => {
     document.getElementById('btn').addEventListener('click', (event) => {
         let result = '';
 
-        console.log(Object.values(data)[0]);
-        const info = Object.values(data)[0];
+        console.log(Object.values(data.students));// se puede llamar a la data de esta forma o de la siguiente linea
+        const info = Object.values(data)[0]; // hace lo mismo que la linea anterior
     
 
         for(let i = 0; i < info.length; i++){
